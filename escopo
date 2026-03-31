@@ -1,0 +1,9 @@
+if (1 > 0) {
+    let nome = 'Arthur';
+    console.log(nome);
+}
+
+/*"Namespace" (espaço de nomes) 
+No JavaScript, o nome de uma função e o nome de uma variável ocupam o mesmo espaço na memória. 
+Se você usa o mesmo nome para ambos, o motor do JS entra em conflito porque não sabe se você 
+está tentando chamar uma ação ou ler um dado*/
