@@ -1,0 +1,10 @@
+// let pessoa=['Arthur', 16, 'Estudante', 'Paranaense']
+
+pessoa={
+    nome:'Arthur',
+    idade:16,
+    ocupação:'Estudante',
+    naturalidade:'Paranaense'
+}
+
+console.log(pessoa) 
